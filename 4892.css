@@ -147,6 +147,7 @@ body {
 }
 
 .card-game {
+  float:inherit
   background-color: #cc2d2d;
   height: 70px;
   background-position: center;
